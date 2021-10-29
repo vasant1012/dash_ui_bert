@@ -4,14 +4,10 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
 entrypoints==0.3
-et-xmlfile==1.0.1
-fastcache==1.1.0
-h5py==2.10.0
 huggingface-hub==0.0.19
 jupyter==1.0.0
 pep8==1.7.1
 plotly==5.3.1
 pytest==6.2.3
-tables==3.6.1
 transformers==4.11.3
 
