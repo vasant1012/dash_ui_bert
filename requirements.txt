@@ -11,9 +11,7 @@ huggingface-hub==0.0.19
 jupyter==1.0.0
 pep8==1.7.1
 plotly==5.3.1
-pycurl==7.43.0.6
 pytest==6.2.3
 tables==3.6.1
 transformers==4.11.3
-
 
