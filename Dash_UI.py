@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import dash
 import dash_bootstrap_components as dbc
 from dash import dcc
@@ -79,10 +73,3 @@ def display_page(pathname):
     
 if __name__=='__main__':
     app.run_server(debug=False, use_reloader=False, port = 8030)
-
-
-# In[ ]:
-
-
-
-
